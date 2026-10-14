@@ -9,8 +9,9 @@
 >
 > The physical machine is fully functional, with ongoing software development and new features planned. This repository is currently being organised, and the source code, CAD files and additional technical documentation will be added soon.
 
-![CoreXY Whiteboard Plotter](images/whiteboard-plotter.jpg)
+![CoreXY Whiteboard Plotter](images/TLOUELLIE.jpg)
 
+![CoreXY Whiteboard Plotter](images/photorealistic.jpg)
 ---
 
 ## Overview
